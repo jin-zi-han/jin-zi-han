@@ -3,7 +3,21 @@
 🤝 I am a Web Back-end Developer from China
 
 
-[![Travis](https://img.shields.io/badge/%E6%8E%98%E9%87%91-Zhan-blue)](https://juejin.cn/user/259910324198845) [![Travis](https://img.shields.io/badge/Wechat-Goldfish7710-brightgreen)]()
+[![Travis](https://img.shields.io/badge/%E6%8E%98%E9%87%91-Zhan-blue)](https://juejin.cn/user/259910324198845) [![Travis](https://img.shields.io/badge/Wechat-Goldfish7710-brightgreen)]() [![Travis](https://img.shields.io/badge/Email-2490782681%40qq.com-red)]()
+
+
+
+
+About me:
+- 🔭 Student at Guangdong University of Technology in the third year
+- 🌱 I preliminary understanding of the open source and want to participate in the open source projects
+- 👯 I’m looking to collaborate on enthusiastic people
+- 💬 Ask me any questions on technology and life
+- 📫 How to reach me: 2490782681@qq.com
+- ⚡ Fun fact: I love the back-end technology and some technical source of understanding
+
+Languages and Tools:
+
 
 
 
