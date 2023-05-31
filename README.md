@@ -1,7 +1,11 @@
-### Hi there 👋 Welcome to my GitHub! My name is Zhan!
----
-**🤝 I am a Web Back-end Developer from China**
+<h1 align="center">Hi there 👋 Welcome to my GitHub! My name is Zhan!</h1>
+<h3 align="center">🤝 I am a Web Back-end Developer from China</h3>
 
+- 🌱 I’m currently learning **Kubernetes、Micro service**
+
+- 📫 How to reach me **2490782681@qq.com**
+
+---
 
 [![Travis](https://img.shields.io/badge/%E6%8E%98%E9%87%91-Zhan-blue)](https://juejin.cn/user/259910324198845) [![Travis](https://img.shields.io/badge/Wechat-Goldfish7710-brightgreen)]() [![Travis](https://img.shields.io/badge/Email-2490782681%40qq.com-red)]()
 
@@ -17,6 +21,11 @@
 - ⚡ Fun fact: I love the back-end technology and some technical source of understanding
 
 ### Languages and Tools:
+<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  
+  
+  
+  </p>
 
 
 
