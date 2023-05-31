@@ -2,7 +2,8 @@
 ---
 🤝 I am a Web Back-end Developer from Chine
 
-https://img.shields.io/badge/%E6%8E%98%E9%87%91-Zhan-blue
+
+[![Travis](https://img.shields.io/badge/%E6%8E%98%E9%87%91-Zhan-blue)](https://juejin.cn/user/259910324198845)
 
 ![](https://github-readme-stats.vercel.app/api?username=Zhan&theme=dark)
 
