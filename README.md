@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my GitHub! My name is Zhan!
 
 <!--
 **jin-zi-han/jin-zi-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
