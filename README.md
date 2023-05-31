@@ -1,9 +1,11 @@
 ### Hi there 👋 Welcome to my GitHub! My name is Zhan!
 ---
-🤝 I am a Web Back-end Developer from Chine
+🤝 I am a Web Back-end Developer from China
 
 
-[![Travis](https://img.shields.io/badge/%E6%8E%98%E9%87%91-Zhan-blue)](https://juejin.cn/user/259910324198845)
+[![Travis](https://img.shields.io/badge/%E6%8E%98%E9%87%91-Zhan-blue)](https://juejin.cn/user/259910324198845) [![Travis](https://img.shields.io/badge/Wechat-Goldfish7710-brightgreen)]()
+
+
 
 ![](https://github-readme-stats.vercel.app/api?username=Zhan&theme=dark)
 
