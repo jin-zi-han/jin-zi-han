@@ -29,10 +29,6 @@
 
 
 
-
-![](https://github-readme-stats.vercel.app/api?username=Zhan&theme=dark)
-
-
 <!--
 **jin-zi-han/jin-zi-han** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
